@@ -1,2 +1,1 @@
 # Mythology
-hi
